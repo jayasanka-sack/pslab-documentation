@@ -15,6 +15,10 @@ well as how to use it.
 The layout consists of three different graph plots for X, Y, and Z axes. There is also the option to configure the Gyrometer
 using the menu in the top right corner. 
 
+![PSLab Desk Oscilloscope](../_static/instrument_gyro_home.jpg)
+
+![PSLab Desk Oscilloscope](../_static/instrument_gyro_active_2.jpg)
+
 <table>
     <tr>
         <td><img src="/_static/instrument_gyro_active.png"></td>
